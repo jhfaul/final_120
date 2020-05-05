@@ -1,0 +1,9 @@
+.hide{
+  display: none;
+}
+.content{
+  padding: 1em;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: gray;
+}
